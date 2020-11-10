@@ -28,7 +28,7 @@ const articles = [{
       text: 'article 4'
    },
    {
-      imgSrc: '/img/sky-690293_1920.jpg',
+      imgSrc: 'img/sky-690293_1920.jpg',
       text: 'new sky image'
    }
 ];
